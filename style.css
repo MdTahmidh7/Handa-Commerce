@@ -19,3 +19,43 @@
     color: white;
     border: 0px;
 }
+
+
+
+/* categories section */
+.cat1,.cat2,.cat3{
+    color: black;
+    border-radius: 0px 45px 0px 45px;
+    padding: 10px 15px;
+    box-shadow: 10px 8px 10px lightgray;
+}
+.cat1{
+    background-color: aqua;
+   
+}
+.cat2{
+    background-color: rgb(0, 255, 200);
+   
+}
+.cat3{
+    background-color: rgb(200, 255, 0);  
+}
+
+
+
+   /* Shoes Section */
+
+.card{
+    border: none;
+    box-shadow: 10px 8px 10px lightgray;
+    border-radius: 12px;
+}
+.card1-bg-color{
+    background-color: blanchedalmond;
+}
+.card2-bg-color{
+    background-color: rgb(209, 243, 187);
+}
+.card3-bg-color{
+    background-color: rgb(239, 205, 255);
+}
